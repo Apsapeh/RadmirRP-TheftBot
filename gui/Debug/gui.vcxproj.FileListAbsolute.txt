@@ -1,0 +1,4 @@
+C:\Users\GHOST\Desktop\Visual Studio Projects\gui\gui\Debug\gui.vcxproj.AssemblyReference.cache
+C:\Users\GHOST\Desktop\Visual Studio Projects\gui\gui\Debug\gui.vcxproj.GenerateResource.cache
+C:\Users\GHOST\Desktop\Visual Studio Projects\gui\gui\Debug\gui.mainWindow.resources
+C:\Users\GHOST\Desktop\Visual Studio Projects\gui\gui\Debug\gui.vcxproj.SuggestedBindingRedirects.cache

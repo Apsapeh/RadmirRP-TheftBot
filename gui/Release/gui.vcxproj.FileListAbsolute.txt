@@ -1,0 +1,8 @@
+C:\Users\GHOST\Desktop\Visual Studio Projects\gui\gui\Release\gui.mainWindow.resources
+C:\Users\GHOST\Desktop\Visual Studio Projects\gui\gui\Release\gui.vcxproj.GenerateResource.cache
+C:\Users\GHOST\Desktop\Visual Studio Projects\gui\gui\Release\gui.vcxproj.AssemblyReference.cache
+C:\Users\GHOST\Desktop\Visual Studio Projects\gui\gui\Release\gui.vcxproj.SuggestedBindingRedirects.cache
+D:\Мусор\Копия Раб.Стола\Visual Studio Projects\gui\gui\Release\gui.vcxproj.AssemblyReference.cache
+D:\Мусор\Копия Раб.Стола\Visual Studio Projects\gui\gui\Release\gui.vcxproj.SuggestedBindingRedirects.cache
+D:\Мусор\Копия Раб.Стола\Visual Studio Projects\gui\gui\Release\gui.mainWindow.resources
+D:\Мусор\Копия Раб.Стола\Visual Studio Projects\gui\gui\Release\gui.vcxproj.GenerateResource.cache

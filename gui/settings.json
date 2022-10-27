@@ -1,0 +1,73 @@
+{
+
+"system" : 
+	{
+		"show_donut"	  : false,
+		"crowbar_sleep"	  : 400,
+		"min_color"		  : {"Red" : 150, "Green" : 0, "Blue" : 0},
+		"max_color"		  : {"Red" : 250, "Green" : 175, "Blue" : 175}
+	},
+
+"default" : 
+	{
+		"name_trans"	 : "1920 * 1080",
+		"x_trans"	     : 856,
+		"y_trans"	     : 412,
+		"width_trans"    : 206,
+		"height_trans"   : 10,
+
+		"name_crowbar"	 : "Crowbar 1",
+		"x_crowbar"	     : 900,
+		"y_crowbar"	     : 510,
+		"width_crowbar"  : 120,
+		"height_crowbar" : 120,
+		"box_size"		 : 20,
+		"lock_box_size"  : 40
+	},
+
+
+"custom_res_trans" : 
+[
+    {
+		"name_trans"	 : "1920 * 1080",
+		"x_trans"	     : 856,
+		"y_trans"	     : 412,
+		"width_trans"    : 206,
+		"height_trans"   : 10
+	},
+
+    {
+		"name_trans"	 : "1280 * 1024",
+		"x_trans"	     : 1024,
+		"y_trans"	     : 1280,
+		"width_trans"    : 100,
+		"height_trans"   : 1
+	} 
+
+],
+
+"custom_res_crow" : 
+[
+
+    {
+		"name_crowbar"	 : "Crowbar 1",
+		"x_crowbar"	     : 900,
+		"y_crowbar"	     : 510,
+		"width_crowbar"  : 120,
+		"height_crowbar" : 120,
+		"box_size"		 : 20,
+		"lock_box_size"  : 40
+	},
+
+    {
+		"name_crowbar"	 : "Crowbar 2",
+		"x_crowbar"	     : 900,
+		"y_crowbar"	     : 510,
+		"width_crowbar"  : 120,
+		"height_crowbar" : 120,
+		"box_size"		 : 20,
+		"lock_box_size"  : 40
+	} 
+
+]
+}

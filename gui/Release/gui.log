@@ -1,0 +1,2 @@
+﻿D:\Programs\VS\MAIN\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (gui.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  gui.vcxproj -> D:\Мусор\Копия Раб.Стола\Visual Studio Projects\gui\Release\Radmir Bot.exe
